@@ -15,9 +15,11 @@ Install the required packages using:
 pip install -r requirements.txt
 ```
 
+
 ## Run the application
 python -m streamlit run app.py
 ```
+
 
 
 
